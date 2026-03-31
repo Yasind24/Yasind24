@@ -1,29 +1,45 @@
-# Eternal Curiosity - Mohamed Yasin 🌟
+# Mohamed Yasin
 
-Welcome to my GitHub! I am a passionate product enthusiast, with a background as a Product Owner, Product Manager, and Project Manager. My experience spans B2C and B2B applications, where I’ve led teams to build products that make a real difference.
+**Consulting Manager, AI-Native Transformation · Cognizant**
+Agentic Systems | Enterprise AI Delivery | Builder
 
-🌐 **[Visit My Website](https://yasind24.github.io/eternal_curiosity/)**
+---
 
-## About Me 🚀
+I build and deliver agentic AI systems for enterprise clients — currently working with a US energy company on GCP, designing multi-agent pipelines that span Lead-to-Cash workflows, Vertex AI Agent Builder, and reusable skill factories.
 
-With 8+ years of product development and project management, I specialize in creating solutions that bridge technology and user needs. My portfolio includes everything from SaaS tools to innovative customer portals, developed using modern tech stacks like **MERN**, **Firebase**, and **Supabase**.
+My work sits at the intersection of real production constraints and emerging AI architecture.
+Not prototyping. Shipping.
 
-💡 I believe in continuous learning and applying creativity to solve complex problems, whether it’s building the next great feature or optimizing user experience.
+---
 
-## Skills & Expertise ⚙️
-- **Product Management**: Leading products from idea to launch.
-- **Agile Practices**: Scrum, Kanban, and team leadership.
-- **Tech Stack**: MERN (MongoDB, Express, React, Node), Firebase, Supabase, PostgreSQL, AWS.
-- **Tools**: Jira, Trello, Asana, Figma, Notion, Slack, Miro.
-- **Data-Driven Decisions**: Leveraging analytics to drive product direction.
-- **B2B/B2C Applications**: Expertise in building customer portals, SaaS solutions, and business tools.
+## What I'm working on
 
-## Notable Projects 💼
-- **Fatigue Management Tool**: Developed a safety solution from concept to MVP, improving workplace safety.
-- **Utility Customer Portals**: Designed and delivered user-friendly portals for utility companies, enhancing customer interactions.
-- **Business Development**: Led research and partnership efforts in infrastructure and sustainability projects.
+**Enterprise AI Delivery**
+Multi-agent systems on GCP for the Americas Energy & Utilities sector — architecture, stakeholder alignment, and end-to-end delivery.
 
-## Let’s Connect! 🤝
-Check out my [portfolio](https://yasind24.github.io/eternal_curiosity/Portfolio/) for more about my work, or reach out via [LinkedIn](https://linkedin.com/in/yasin-m) to collaborate on exciting new projects!
+**Writing**
+[AI vs Human Moats](https://linkedin.com/in/yasin-d) — a LinkedIn series on what AI can't automate, and what that means for people building in its shadow.
 
-Let’s build the future together! 🌍
+**Open Source**
+New projects coming soon — focused on agentic systems and AI tooling.
+
+---
+
+## Stack
+
+`Vertex AI` `Agent Builder` `GCP` `Claude API` `Python` `MCP` `LangGraph`
+
+Enterprise delivery · Agentic architecture · Product strategy
+
+---
+
+## Background
+
+Mechanical engineering → Infrastructure consulting (L&T, Tata, VA Tech Wabag) → MBA (SPJIMR) → Management consulting → AI-Native Transformation
+
+The engineering and industrial background shapes how I think about systems, constraints, and what production-ready actually means.
+
+---
+
+📍 Chennai, India
+🔗 [LinkedIn](https://linkedin.com/in/yasin-d)
