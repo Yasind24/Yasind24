@@ -1,45 +1,63 @@
 # Mohamed Yasin
 
-**Consulting Manager, AI-Native Transformation · Cognizant**
-Agentic Systems | Enterprise AI Delivery | Builder
+### AI-native consultant. Enterprise builder. A decade in utilities.
+
+I combine utilities domain knowledge, consulting experience, and hands-on application development to turn business problems into working systems.
+
+My work spans understanding the workflow, designing the architecture, building the application, and making it useful to the people who operate it.
+
+**Consulting Manager, AI-Native Transformation · Cognizant**  
+Currently working on enterprise AI delivery for the Energy & Utilities sector, including agentic workflows on GCP.
+
+[Explore SakhiSahay](https://sakhisahay.in) · [Browse my projects](https://github.com/Yasind24?tab=repositories) · [Connect on LinkedIn](https://linkedin.com/in/yasin-d)
 
 ---
 
-I build and deliver agentic AI systems for enterprise clients — currently working with a US energy company on GCP, designing multi-agent pipelines that span Lead-to-Cash workflows, Vertex AI Agent Builder, and reusable skill factories.
+## Explore my work
 
-My work sits at the intersection of real production constraints and emerging AI architecture.
-Not prototyping. Shipping.
+### SakhiSahay — helping people find support when they need it
 
----
+**The problem:** Support infrastructure exists, but finding the right service can be difficult at a stressful moment.
 
-## What I'm working on
+**What I built:** A public application that makes India's One Stop Centres easier to discover through location search, maps, state and district directories, and guided help.
 
-**Enterprise AI Delivery**
-Multi-agent systems on GCP for the Americas Energy & Utilities sector — architecture, stakeholder alignment, and end-to-end delivery.
+**Why it matters:** Turning an existing public service into an accessible digital experience requires understanding the user's situation as well as building the software.
 
-**Writing**
-[AI vs Human Moats](https://linkedin.com/in/yasin-d) — a LinkedIn series on what AI can't automate, and what that means for people building in its shadow.
+I built and hosted SakhiSahay as an independent community project.
 
-**Open Source**
-New projects coming soon — focused on agentic systems and AI tooling.
+[Open the application →](https://sakhisahay.in)  
+[Explore the code →](https://github.com/Yasind24/SakhiSahay)
 
----
-
-## Stack
-
-`Vertex AI` `Agent Builder` `GCP` `Claude API` `Python` `MCP` `LangGraph`
-
-Enterprise delivery · Agentic architecture · Product strategy
+**Built with:** React · TypeScript · Vite · Leaflet · Node.js / Express
 
 ---
 
-## Background
+## What I bring
 
-Mechanical engineering → Infrastructure consulting (L&T, Tata, VA Tech Wabag) → MBA (SPJIMR) → Management consulting → AI-Native Transformation
+| Capability | How I apply it |
+| --- | --- |
+| **Domain understanding** | A decade of experience across utilities and infrastructure, with an understanding of operational workflows and constraints. |
+| **Consulting and architecture** | Connecting business needs, stakeholder decisions, and enterprise system design. |
+| **Hands-on delivery** | Building applications and AI workflows, from the user experience to backend services and integrations. |
+| **AI-native development** | Using Claude, Codex, Antigravity, and Cursor throughout the building process, with ownership of the design decisions and resulting application. |
 
-The engineering and industrial background shapes how I think about systems, constraints, and what production-ready actually means.
+## Enterprise focus
 
----
+Energy & Utilities · Lead-to-Cash workflows · Agentic systems · Enterprise AI delivery
+
+**AI and architecture:** GCP · Vertex AI · Agent Builder · Claude API · Python · MCP · LangGraph
+
+## My path
+
+Mechanical engineering → Infrastructure consulting → MBA at SPJIMR → Management consulting → AI-native transformation
+
+My experience across L&T, Tata, and VA Tech Wabag shapes how I think about systems, operational constraints, and delivery.
+
+## Writing & connection
+
+I write about AI, professional judgment, and the skills that remain valuable as building becomes more accessible—including my **AI vs Human Moats** series.
+
+[Find my writing and connect on LinkedIn →](https://linkedin.com/in/yasin-d)
 
 📍 Chennai, India
-🔗 [LinkedIn](https://linkedin.com/in/yasin-d)
+
