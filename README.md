@@ -28,6 +28,20 @@ Energy & Utilities · Lead-to-Cash workflows · Agentic systems · Enterprise AI
 
 **AI and architecture:** GCP · Vertex AI · Agent Builder · Claude API · Python · MCP · LangGraph
 
+## Professional work
+
+### Enterprise Data to AI
+
+Turning fragmented enterprise data and business logic into usable AI experiences.
+
+This portfolio draws on my work with Databricks Genie workspaces and supervisor orchestration, and my current work building a Looker semantic layer from logic across Tableau, Power BI, and BigQuery views.
+
+**Explore:** Professional case studies and an independent public demonstration using synthetic utility data.
+
+**Status:** Initial case studies published; demonstration in development.
+
+[Explore Enterprise Data to AI →](https://github.com/Yasind24/enterprise-data-to-ai)
+
 ## My path
 
 Mechanical engineering → Infrastructure consulting → MBA at SPJIMR → Management consulting → AI-native transformation
