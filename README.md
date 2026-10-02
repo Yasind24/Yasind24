@@ -17,16 +17,19 @@ Currently working on enterprise AI delivery for the Energy & Utilities sector, i
 
 ### SakhiSahay — helping people find support when they need it
 
-**The problem:** Support infrastructure exists, but finding the right service can be difficult at a stressful moment.
+[![SakhiSahay homepage: centre discovery, maps, and guided help](https://raw.githubusercontent.com/Yasind24/SakhiSahay/main/assets/sakhisahay-home.jpg)](https://sakhisahay.in)
 
-**What I built:** A public application that makes India's One Stop Centres easier to discover through location search, maps, state and district directories, and guided help.
+**Why I built it:** Someone very close to me experienced abuse and found it difficult to seek help because of social stigma. While looking for support, I discovered One Stop Centres—but information and guidance were scattered, and some apps required a login.
 
-**Why it matters:** Turning an existing public service into an accessible digital experience requires understanding the user's situation as well as building the software.
+I built and hosted SakhiSahay to make that journey simpler. She later used it to find support and is now in safe hands, living peacefully.
 
-I built and hosted SakhiSahay as an independent community project.
+**Three choices behind the product:**
+- **No account required:** Let people explore help without a registration barrier.
+- **One connected place:** Bring centre directories, maps, contact details, and directions together.
+- **Guidance that starts with the situation:** Help people move from what they are facing to relevant services and a next step.
 
 [Open the application →](https://sakhisahay.in)  
-[Explore the code →](https://github.com/Yasind24/SakhiSahay)
+[Read the story and explore the code →](https://github.com/Yasind24/SakhiSahay#why-i-built-sakhisahay)
 
 **Built with:** React · TypeScript · Vite · Leaflet · Node.js / Express
 
@@ -60,4 +63,3 @@ I write about AI, professional judgment, and the skills that remain valuable as 
 [Find my writing and connect on LinkedIn →](https://linkedin.com/in/yasin-d)
 
 📍 Chennai, India
-
