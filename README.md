@@ -84,3 +84,9 @@ I built and hosted SakhiSahay to make that journey simpler. She later used it to
 [Read the story and explore the code →](https://github.com/Yasind24/SakhiSahay#why-i-built-sakhisahay)
 
 **Built with:** React · TypeScript · Vite · Leaflet · Node.js / Express
+
+### Meaningful AI: open skills and tools for working with AI
+
+Small, practical AI tools I build in the open, starting with Claude agent skills: one that stress-tests an idea before you commit to it, and one that gives an honest verdict on whether a role fits and then writes only from verified facts.
+
+[Explore Meaningful AI →](https://github.com/Yasind24/meaningful-ai)
