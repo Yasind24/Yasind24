@@ -1,13 +1,13 @@
 # Mohamed Yasin
 
-### AI-native consultant. Enterprise builder. A decade in utilities.
+### AI transformation leader for Energy & Utilities. I build what I advise on.
 
-I combine utilities domain knowledge, consulting experience, and hands-on application development to turn business problems into working systems.
+I combine utilities domain knowledge, consulting experience, and hands-on application development to turn business problems into working systems, and I lead the teams that deliver them.
 
 My work spans understanding the workflow, designing the architecture, building the application, and making it useful to the people who operate it.
 
-**Consulting Manager, AI-Native Transformation · Cognizant**  
-Currently working on enterprise AI delivery for the Energy & Utilities sector, including agentic workflows on GCP.
+**Senior Consulting Manager, AI-Native Transformation · Cognizant**  
+I lead a cross-functional team of ten across the US and India building an enterprise semantic layer for a utility on Looker and BigQuery, and I architected a Claude-orchestrated customer-intelligence platform on Databricks. Agentic AI on GCP is my daily work.
 
 [Browse my projects](https://github.com/Yasind24?tab=repositories) · [Connect on LinkedIn](https://linkedin.com/in/yasin-d)
 
@@ -17,8 +17,9 @@ Currently working on enterprise AI delivery for the Energy & Utilities sector, i
 
 | Capability | How I apply it |
 | --- | --- |
-| **Domain understanding** | A decade of experience across utilities and infrastructure, with an understanding of operational workflows and constraints. |
+| **Domain understanding** | Twelve years across water, power and utility infrastructure and Energy & Utilities consulting, with an understanding of operational workflows and constraints. |
 | **Consulting and architecture** | Connecting business needs, stakeholder decisions, and enterprise system design. |
+| **Team leadership** | Leading a cross-functional delivery team across the US and India, and training it to build AI-natively. |
 | **Hands-on delivery** | Building applications and AI workflows, from the user experience to backend services and integrations. |
 | **AI-native development** | Using Claude, Codex, Antigravity, and Cursor throughout the building process, with ownership of the design decisions and resulting application. |
 
@@ -34,7 +35,8 @@ Energy & Utilities · Lead-to-Cash workflows · Agentic systems · Enterprise AI
 
 Turning fragmented enterprise data and business logic into usable AI experiences.
 
-This portfolio draws on my work with Databricks Genie workspaces and supervisor orchestration, and my current work building a Looker semantic layer from logic across Tableau, Power BI, and BigQuery views.
+- **Databricks:** I architected a customer-intelligence platform for a utility's sales team. Claude orchestrates a Databricks Supervisor Agent over many Genie spaces, alongside a web-search agent and MCP tools, for cross-sell, upsell and renewal research.
+- **Looker:** I lead the build of an enterprise semantic layer over BigQuery: 2,000+ attributes across four domain groups, extracted from thousands of dashboards. I designed an AI-automated dashboard-to-LookML process that cut the cycle per dashboard from 60 to 90 days to about a day of automation plus a few days of expert validation. It supplies the business context for a Gemini-powered, multi-agent platform.
 
 **Explore:** Professional case studies and an independent public demonstration using synthetic utility data.
 
