@@ -17,7 +17,7 @@ I lead a cross-functional team of ten across the US and India building an enterp
 
 | Capability | How I apply it |
 | --- | --- |
-| **Domain understanding** | Twelve years across water, power and utility infrastructure and Energy & Utilities consulting, with an understanding of operational workflows and constraints. |
+| **Domain understanding** | Over ten years across water, power and utility infrastructure and Energy & Utilities consulting, with an understanding of operational workflows and constraints. |
 | **Consulting and architecture** | Connecting business needs, stakeholder decisions, and enterprise system design. |
 | **Team leadership** | Leading a cross-functional delivery team across the US and India, and training it to build AI-natively. |
 | **Hands-on delivery** | Building applications and AI workflows, from the user experience to backend services and integrations. |
